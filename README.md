@@ -69,23 +69,22 @@ Building scalable backend systems, AI agents, and real-world software solutions.
 ---
 
 ### 🗄️ Databases
-
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
+
 
 ### 🧩 ORMs
 
 <p>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-EA580C?style=for-the-badge&logo=typeorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/GORM-2563EB?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ---
@@ -93,12 +92,12 @@ Building scalable backend systems, AI agents, and real-world software solutions.
 # 🤖 AI Stack
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/A2A-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-1E293B?style=for-the-badge&logo=googlegemini&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/MCP%20Protocol-7C3AED?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/A2A-2563EB?style=for-the-badge&logo=googlemessages&logoColor=white" />
 </p>
 
 ---
